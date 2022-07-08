@@ -10,9 +10,6 @@ The following components were required for the setup
 
 2 electrodes of OpenBCI Ganglion were used as reference and ground placed on both earlobes. The other 4 electrodes were placed on location TP9, AF7, AF7, TP10, as per the 10-20 system of electrode placement. 
 
-## Software System Diagram
-![Software System Diagram](./assets/system.png)
-
 ## Implementation
 ![UI](./assets/implementation.png)
 
@@ -22,6 +19,9 @@ The following components were required for the setup
 3. https://streamlit.io/
 4. https://www.kaggle.com/datasets/birdy654/eeg-brainwave-dataset-feeling-emotions
 
+## Project Members 
+1. Vijayasri Iyer
+2. Madhumithaa V
 
 
 
