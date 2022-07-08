@@ -8,4 +8,12 @@ The following components were required for the setup
 3. Gel electrode stickers
 4. Duracell AA Batteries
 
-The OpenBCI Ganglion was setup with 6 electrodes. 2 electrodes were used as reference and ground placed on both earlobes. The other 4 electrodes were placed on location TP9, AF7, AF7, TP10, as per the 10-20 system of electrode placement. The Ganglion has a sampling rate of 200Hz. 
+2 electrodes of OpenBCI Ganglion were used as reference and ground placed on both earlobes. The other 4 electrodes were placed on location TP9, AF7, AF7, TP10, as per the 10-20 system of electrode placement. 
+
+## Software System Diagram
+
+
+
+
+
+
