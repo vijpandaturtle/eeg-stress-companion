@@ -19,11 +19,6 @@ The following components were required for the setup
 3. https://streamlit.io/
 4. https://www.kaggle.com/datasets/birdy654/eeg-brainwave-dataset-feeling-emotions
 
-## Project Members 
-1. Vijayasri Iyer
-2. Madhumithaa V
-
-
 
 
 
