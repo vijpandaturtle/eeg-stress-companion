@@ -1,6 +1,8 @@
 # Stress Detection and Music Recommendation with a Brain Computer Interface (BCI)
 Most people face stress at some point in their lives, whether it be physical or emotional. Stress has a negative impact on a person's health. Since, research on stress is still in its infancy, and over the past 10 years, much focus has been placed on the identification and classification of stress. We presented an end-to-end solution for detection of stress from EEG signals collected from an OpenBCI Ganglion EEG Headset. We examined an LSTM and GRU model for classifying stress. We showcase a simple music recommendation system using the Spotify API to play music based on the user's current mood. We also present two architectures to scale this application for large scale use. Please find the presentation for this project [here](https://docs.google.com/presentation/d/19hMFwgbVj6Na0fEbEFAPNXMf3QFx5SjeCajAVU9eAeI/edit?usp=sharing).
 
+## Proposed System
+
 ![System](./assets/system.png)
 
 ## Hardware Components
