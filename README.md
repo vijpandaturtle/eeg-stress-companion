@@ -8,10 +8,15 @@ The following components were required for the setup
 3. Gel electrode stickers
 4. Duracell AA Batteries
 
-2 electrodes of OpenBCI Ganglion were used as reference and ground placed on both earlobes. The other 4 electrodes were placed on location TP9, AF7, AF7, TP10, as per the 10-20 system of electrode placement. 
+2 electrodes of OpenBCI Ganglion were used as reference and ground placed on both earlobes. The other 4 electrodes were placed on location TP9, AF7, AF8, TP10, as per the 10-20 system of electrode placement. 
 
 ## Implementation
 ![UI](./assets/implementation.png)
+
+Step 1: Collect EEG Data by placing the electrodes in the locations TP9, AF7, AF8, TP10.
+Step 2: Pre-process the data using [this](https://www.kaggle.com/datasets/birdy654/eeg-brainwave-dataset-feeling-emotions) library.
+Step 3: Train the model on a publically available kaggle dataset that resembles the recorded data.
+Step 4: Infer on the incoming raw data !
 
 ## References
 1. https://github.com/jordan-bird/eeg-feature-generation
